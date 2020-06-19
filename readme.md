@@ -1,5 +1,3 @@
 # This is my first project!
 
-More Test
-
-more more test
+Learning from covalence and it's a lab drill from covalance.
